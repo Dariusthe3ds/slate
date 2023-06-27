@@ -65,4 +65,4 @@ Placeholder
 
 ### Placeholder
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://i.kym-cdn.com/entries/icons/facebook/000/036/362/knifechickcover.jpg)
