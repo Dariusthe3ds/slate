@@ -3,7 +3,7 @@ layout: default
 ---
 [Link to another page](./another-page.html).
 # Placeholder
-Placeholder
+Placeholder![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 ## Placeholder
 ### Placeholder
 #### Placeholder
